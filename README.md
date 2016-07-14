@@ -1,2 +1,2 @@
 # C-plus-plus
-Basic C++
+Basic C++ calculator
